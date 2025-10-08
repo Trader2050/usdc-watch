@@ -1,0 +1,63 @@
+[[rpc.endpoints]]
+name = "blockrazor"
+url = "https://eth.blockrazor.xyz"
+
+[[rpc.endpoints]]
+name = "blockpi"
+url = "https://ethereum.public.blockpi.network/v1/rpc/public"
+
+[[rpc.endpoints]]
+name = "rpcfast"
+url = "https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf"
+
+[[rpc.endpoints]]
+name = "0xrpc"
+url = "https://0xrpc.io/eth"
+
+[[rpc.endpoints]]
+name = "zan"
+url = "https://api.zan.top/eth-mainnet"
+
+[[rpc.endpoints]]
+name = "blxrbdn"
+url = "https://eth.rpc.blxrbdn.com"
+
+[[rpc.endpoints]]
+name = "nodereal"
+url = "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7"
+
+[[rpc.endpoints]]
+name = "nodies"
+url = "https://ethereum-public.nodies.app"
+
+[[rpc.endpoints]]
+name = "tatum"
+url = "https://ethereum-mainnet.gateway.tatum.io"
+
+[[rpc.endpoints]]
+name = "omniatech"
+url = "https://endpoints.omniatech.io/v1/eth/mainnet/public"
+
+[[rpc.endpoints]]
+name = "publicnode"
+url = "https://ethereum.publicnode.com"
+
+[[rpc.endpoints]]
+name = "flashbots"
+url = "https://rpc.flashbots.net"
+
+[[rpc.endpoints]]
+name = "onerpc"
+url = "https://1rpc.io/eth"
+
+[[rpc.endpoints]]
+name = "llama"
+url = "https://eth.llamarpc.com"
+
+[[rpc.endpoints]]
+name = "mevblocker"
+url = "https://rpc.mevblocker.io"
+
+[[rpc.endpoints]]
+name = "nownodes"
+url = "https://public-eth.nownodes.io"
